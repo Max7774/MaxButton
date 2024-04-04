@@ -1,5 +1,5 @@
 {
-  "name": "@Max7774/MaxButton",
+  "name": "@max7774/max-button",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/max7774"
   },
