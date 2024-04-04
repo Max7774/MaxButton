@@ -29,8 +29,8 @@ jobs:
 
       - name: Config git metadata
         run: |
-          git config --global user.name 'Vighnesh Raut'
-          git config --global user.email 'me@vighnesh153.com'
+          git config --global user.name 'Max Grush'
+          git config --global user.email 'megaymbetov@gmail.com'
 
       - name: Publish the packages
         run: |
